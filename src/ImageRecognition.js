@@ -41,7 +41,7 @@
             var data;
             if (xhr.readyState == 4) { // `DONE`
                 status = xhr.status;
-                if (status < 400) {
+                if (status >= 200 && status < 400) {
                     data = (typeof isJson != "undefined" && isJson == true) ? JSON.parse(xhr.responseText) : xhr.responseType;
                     successHandler && successHandler(data, xhr, parseResponseHeaders(xhr.getAllResponseHeaders()));
                 } else {
