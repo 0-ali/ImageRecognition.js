@@ -25,6 +25,11 @@ Image  | Result |
 ![Bill Gates](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bill_Gates_June_2015.jpg/220px-Bill_Gates_June_2015.jpg)      |  <br> <br> <br>  **dr bill gates**  |   
 ![Steve Jobs](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Steve_Jobs_with_red_shawl_edit2.jpg/220px-Steve_Jobs_with_red_shawl_edit2.jpg)   |<br> <br> <br>  **steve jobs** |   
 ![Gumball Cartoon](http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i79/gumball_gumball_180x180.png)| <br> <br> <br>  **amazing world of gumball gumbal**|  
+Works done by this:
+------------------
+1. Javascript bot using image recognition to solve reCaptcha
+
+[![Javascript bot using image recognition to solve reCaptcha](http://img.youtube.com/vi/m2xOfU_5T-w/0.jpg)](http://www.youtube.com/watch?v=m2xOfU_5T-w "Javascript bot using image recognition to solve reCaptcha")
 
 
 
@@ -34,7 +39,7 @@ Created By:
 
 License:
 --------
-jQuery-webSpeaker is released under the
+ImageRecognition.js is released under the
 [MIT license](http://www.opensource.org/licenses/MIT).
 
 
